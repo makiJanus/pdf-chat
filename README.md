@@ -12,6 +12,7 @@ A web-based application to chat with a PDF, I mainly do it to not read papers, j
 
 ## To install
 1.- Install Oobabooga: https://github.com/oobabooga/text-generation-webui
+
 2.- Clone this git in your computer.
 
 ## To run
