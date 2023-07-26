@@ -5,3 +5,6 @@ A web-based application to chat with a PDF, I mainly do it to not read papers, j
 - Running locally on GPU.
 - Can save history chat.
 - PDF file uploading. 
+
+Inspired by:
+LangChain_PDFChat_Oobabooga: https://github.com/sebaxzero
