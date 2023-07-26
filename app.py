@@ -70,7 +70,7 @@ if pdf_file:
         
     # Split the text into chunks
     text_splitter = CharacterTextSplitter(
-        separator="\n", chunk_size=700, chunk_overlap=100, length_function=len
+        separator="\n", chunk_size=600, chunk_overlap=100, length_function=len
     )
     chunks = text_splitter.split_text(text)
     
