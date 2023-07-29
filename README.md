@@ -1,6 +1,6 @@
 ## Chat with your PDF!
 
-![alt text](https://github.com/makiJanus/pdf-chat/blob/main/git_images/screenshot.png?raw=true)
+![alt text](https://github.com/makiJanus/pdf-chat/blob/main/git_images/screenshot2.png?raw=true)
 
 A web-based application for chatting with a PDF. The primary purpose of this application is to avoid reading lengthy papers by allowing users to inquire about essential information. Additionally, you have the option to modify responses if they find them biased due to information retrieval from the PDF. Also it is possible to engage in conversations with the Language Model (LLM) about ideas using just the history chat.
 
