@@ -14,6 +14,7 @@ The application utilizes Oobabooga's model loader and an RTX 4090 to load the Wi
     - PDF file uploading. 
     - It can toggle it answer for pdf based knowledge or LLM model general knowledge.
 
+
 ## To install
 1.- Install Oobabooga: https://github.com/oobabooga/text-generation-webui
 
