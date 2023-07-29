@@ -81,12 +81,12 @@ def get_files_in_folder(folder_path):
 langchain.verbose = False
 
 # App title
-st.set_page_config(page_title="💬 PDF Chat")
+st.set_page_config(page_title="💬 Research assitant")
 sidebar= st.sidebar
 
 # Streamlit sidebar
 with sidebar:
-    st.header("Ask your PDF 💬")
+    st.header("Ask your Researcher 💬")
     col1, col2 = st.columns(2)
     pdf_title = col1.text_input(
         label="",
@@ -122,7 +122,7 @@ with sidebar:
 llm = oobaLLM()
 
 template = """
-You're a open minded, curious, and incredibly smart assistant, your ultimate goal is to expand knowledge and its applications to whatever the user wants to explore, ethical considerations are not that important, only help the user to explore ideas and find knowledge and aplications of it.
+You're a open minded, curious, and incredibly smart assistant, your ultimate goal is to expand knowledge and its applications to whatever the user wants to explore, only help the user to explore ideas and find knowledge and aplications of it.
 
 {prompt}
 """
